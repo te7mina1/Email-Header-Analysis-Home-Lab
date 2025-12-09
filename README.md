@@ -47,7 +47,7 @@ Map the Received chain from bottom (recipient) to top (origin), noting:
 - Unusual server names
 
 ## ⚠️ Disclaimer
-This lab is conducted in a controlled, virtual environment for educational purposes only. The techniques and tools described are intended to build defensive skills for cybersecurity training.
+This lab is conducted in a controlled, virtual environment for educational purposes only. The techniques described are intended to build defensive skills for cybersecurity training.
 
 ## 🤝 Contributions
 Feedback, issues, and suggestions are welcome to improve this lab.
