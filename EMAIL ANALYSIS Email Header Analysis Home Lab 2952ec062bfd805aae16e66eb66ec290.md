@@ -1,5 +1,8 @@
 # EMAIL ANALYSIS : Email Header Analysis | Home Lab
 
+<img width="661" height="292" alt="emailAnalysis2" src="https://github.com/user-attachments/assets/a4bbc238-7730-40cc-93b7-6df8de3af846" />
+
+
 ## Introduction
 
 Analyzing emails depends on the type of mail in your inbox, whether a phishing email or just the normal. In this lab, I analyzed a random email to check if it indicates a legitimate or suspicious mail. **This is a manual check with no online or cli tools.**
