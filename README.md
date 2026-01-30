@@ -1,4 +1,4 @@
-# Email-Header-Analysis-Home-Lab
+# Email Header Analysis | Home Lab
 
 ## 🔍 Project Overview
 This lab provides a hands-on walkthrough for analyzing email headers—a fundamental skill for Security Operations Center (SOC) analysts, incident responders, and email security professionals. The exercise focuses on extracting, interpreting, and correlating header fields to identify malicious indicators, trace email routes, and detect forgery attempts.
